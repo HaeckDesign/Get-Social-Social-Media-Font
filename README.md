@@ -7,39 +7,6 @@ If you would like another social media icon included, simply add a request to it
 
 Featuring the following icons...
 
-<ul>
-<li>Facebook</li>
-<li>Twitter</li>
-<li>LinkedIn</li>
-<li>Google+</li>
-<li>Pinterest</li>
-<li>Vimeo</li>
-<li>Tumblr</li>
-<li>StumbleUpon</li>
-<li>Foursquare</li>
-<li>Flickr</li>
-<li>YouTube</li>
-<li>Reddit</li>
-<li>Myspace</li>
-<li>PayPal</li>
-<li>Last.fm</li>
-<li>Forrst</li>
-<li>Dribbble</li>
-<li>Behance</li>
-<li>SoundCloud</li>
-<li>WordPress</li>
-<li>Zerply</li>
-<li>Skype</li>
-<li>Github</li>
-<li>Grooveshark</li>
-<li>DeviantArt</li>
-<li>Evernote</li>
-<li>500px</li>
-<li>Blogger</li>
-<li>RSS</li>
-<li>HTML5</li>
-<li>CSS3</li>
-</ul>
-
+Facebook, Twitter, LinkedIn, Google+, Pinterest, Vimeo, Tumblr, StumbleUpon, Foursquare, Flickr, YouTube, Reddit, Myspace, PayPal, Last.fm, Forrst, Dribbble, Behance<, SoundCloud, WordPress, Zerply, Skype, Github, Grooveshark, DeviantArt, Evernote, 500px, Blogger, RSS, HTML5, CSS3
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Get Social - Social Media Font</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://haeckdesign.com/freebies/icons/get-social-icon-font" property="cc:attributionName" rel="cc:attributionURL">Matthew Haeck</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
