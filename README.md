@@ -1,4 +1,4 @@
-Get Social Font
+Get Social - Social Media Font
 =============
 
 Font based social icon set. Offered w/ a CC3.0 license. Please note HaeckDesign has no affiliation with any of the companies listed. If a representative of any company listed would like their logo removed, simply contact us and it will be done. We have posted this font set because it simplifies mockup's for designers and have found it useful around the studio.
