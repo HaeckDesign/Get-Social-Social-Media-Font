@@ -12,11 +12,7 @@ If you would like another social media icon included, simply add a request to it
 Behance, Bitbucket, Blogger, Chrome, Codepen, CSS3, Digg, DeviantArt, Dribbble, Dropbox, Drupal, Evernote, Ello, Facebook, Firefox, Flickr, Foursquare, Forrst, Github, Github2 , Google+, Google Drive, Grooveshark, HTML5, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Myspace, Opera, PayPal, Pinterest, Reddit, RSS, Safari, Skype, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitter, Vimeo, Vine, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar
 
 
-Icons are prefixed with "gsicon-" then the name of the site. Style.css has been included for efficiency and to identify how the websites are included. A simple icon would be created like this...
- 
-<code>
-<i class="gsicon-twitter"></i>
-</code>
+Icons are prefixed with "gsicon-" then the name of the site. Style.css has been included for efficiency and to identify how the websites are included. A simple icon would be created by using an i with the class "gsicon-twitter".
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Get Social - Social Media Font</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://haeckdesign.com/freebies/icons/get-social-icon-font" property="cc:attributionName" rel="cc:attributionURL">Matthew Haeck</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
