@@ -5,7 +5,7 @@ Font based social icon set. Offered w/ a CC3.0 license. Please note HaeckDesign 
 
 <img src="https://s3-us-west-2.amazonaws.com/haeck/Get-Social-Social-Icon-Font-Example.jpg" title="Get Social - Social Media Font" />
 
-If you would like another social media icon included, simply add a request to it's homepage and we'll do our best to include it on future revisions.
+If you would like another social media icon included, simply add a request to it's homepage (http://haeckdesign.com/freebies/icons/get-social-icon-set) and we'll do our best to include it on future revisions.
 
 <b>Featuring the following icons...</b>
 
@@ -14,7 +14,9 @@ Behance, Bitbucket, Blogger, Chrome, Codepen, CSS3, Digg, DeviantArt, Dribbble, 
 
 Icons are prefixed with "gsicon-" then the name of the site. Style.css has been included for efficiency and to identify how the websites are included. A simple icon would be created like this...
  
-<code><i class="gsicon-twitter"></i></code>
+<code>
+<i class="gsicon-twitter"></i>
+</code>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Get Social - Social Media Font</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://haeckdesign.com/freebies/icons/get-social-icon-font" property="cc:attributionName" rel="cc:attributionURL">Matthew Haeck</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
