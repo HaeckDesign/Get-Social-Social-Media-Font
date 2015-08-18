@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Get-Social-Font';
-	src:url('fonts/Get-Social-Font.eot?-n97m1g');
-	src:url('fonts/Get-Social-Font.eot?#iefix-n97m1g') format('embedded-opentype'),
-		url('fonts/Get-Social-Font.woff?-n97m1g') format('woff'),
-		url('fonts/Get-Social-Font.ttf?-n97m1g') format('truetype'),
-		url('fonts/Get-Social-Font.svg?-n97m1g#Get-Social-Font') format('svg');
+	src:url('fonts/Get-Social-Font.eot?84f3qy');
+	src:url('fonts/Get-Social-Font.eot?#iefix84f3qy') format('embedded-opentype'),
+		url('fonts/Get-Social-Font.ttf?84f3qy') format('truetype'),
+		url('fonts/Get-Social-Font.woff?84f3qy') format('woff'),
+		url('fonts/Get-Social-Font.svg?84f3qy#Get-Social-Font') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -26,204 +26,174 @@
 .gsicon-behance:before {
 	content: "\e600";
 }
-
 .gsicon-bitbucket:before {
 	content: "\e601";
 }
-
 .gsicon-blogger:before {
 	content: "\e602";
 }
-
 .gsicon-chrome:before {
 	content: "\e603";
 }
-
 .gsicon-codepen:before {
 	content: "\e606";
 }
-
-.gsicon-css3:before {
-	content: "\e607";
-}
-
 .gsicon-digg:before {
 	content: "\e608";
 }
-
 .gsicon-deviantart:before {
 	content: "\e609";
 }
-
 .gsicon-dribbble:before {
 	content: "\e60a";
 }
-
 .gsicon-dropbox:before {
 	content: "\e60b";
 }
-
 .gsicon-drupal:before {
 	content: "\e60c";
 }
-
 .gsicon-evernote:before {
 	content: "\e60d";
 }
-
 .gsicon-ello:before {
 	content: "\e60e";
 }
-
+.gsicon-etsy:before {
+	content: "\e633";
+}
 .gsicon-facebook:before {
 	content: "\e604";
 }
-
+.gsicon-facebook-messanger:before {
+	content: "\e634";
+}
 .gsicon-firefox:before {
 	content: "\e60f";
 }
-
 .gsicon-flickr:before {
 	content: "\e610";
 }
-
 .gsicon-foursquare:before {
 	content: "\e611";
 }
-
 .gsicon-forrst:before {
 	content: "\e612";
 }
-
 .gsicon-github:before {
 	content: "\e613";
 }
-
-.gsicon-github2:before {
+.gsicon-github-icon:before {
 	content: "\e614";
 }
-
 .gsicon-google-plus:before {
 	content: "\e615";
 }
-
 .gsicon-google-drive:before {
 	content: "\e616";
 }
-
 .gsicon-grooveshark:before {
 	content: "\e617";
 }
-
-.gsicon-html5:before {
-	content: "\e618";
+.gsicon-icloud:before {
+	content: "\e635";
 }
-
 .gsicon-instagram:before {
 	content: "\e619";
 }
-
 .gsicon-ie:before {
 	content: "\e61a";
 }
-
 .gsicon-joomla:before {
 	content: "\e61b";
 }
-
 .gsicon-lastfm:before {
 	content: "\e61c";
 }
-
 .gsicon-linkedin:before {
 	content: "\e61d";
 }
-
 .gsicon-myspace:before {
 	content: "\e61e";
 }
-
 .gsicon-opera:before {
 	content: "\e61f";
 }
-
 .gsicon-paypal:before {
 	content: "\e620";
 }
-
 .gsicon-pinterest:before {
 	content: "\e621";
 }
-
 .gsicon-reddit:before {
 	content: "\e622";
 }
-
 .gsicon-rss:before {
 	content: "\e623";
 }
-
 .gsicon-safari:before {
 	content: "\e624";
 }
-
 .gsicon-skype:before {
 	content: "\e625";
 }
-
+.gsicon-snapchat:before {
+	content: "\e636";
+}
 .gsicon-spotify:before {
 	content: "\e626";
 }
-
 .gsicon-stack-overflow:before {
 	content: "\e627";
 }
-
 .gsicon-stumbleupon:before {
 	content: "\e628";
 }
-
 .gsicon-soundcloud:before {
 	content: "\e629";
 }
-
 .gsicon-tumblr:before {
 	content: "\e62a";
 }
-
 .gsicon-twitter:before {
 	content: "\e605";
 }
-
 .gsicon-vimeo:before {
 	content: "\e62b";
 }
-
 .gsicon-vine:before {
 	content: "\e62c";
 }
-
+.gsicon-whatsapp:before {
+	content: "\e637";
+}
 .gsicon-wordpress:before {
 	content: "\e62d";
 }
-
 .gsicon-yelp:before {
 	content: "\e62e";
 }
-
 .gsicon-youtube:before {
 	content: "\e62f";
 }
-
 .gsicon-zerply:before {
 	content: "\e630";
 }
-
 .gsicon-500px:before {
 	content: "\e631";
 }
-
+.gsicon-html5:before {
+	content: "\e618";
+}
+.gsicon-css3:before {
+	content: "\e607";
+}
+.gsicon-html5-box:before {
+	content: "\e638";
+}
+.gsicon-css3-box:before {
+	content: "\e639";
+}
 .gsicon-tribars:before {
 	content: "\e632";
 }
-
