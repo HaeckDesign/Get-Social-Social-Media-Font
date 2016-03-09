@@ -5,12 +5,12 @@ Font based social icon set. Offered w/ a CC3.0 license. Please note HaeckDesign 
 
 <img src="https://s3-us-west-2.amazonaws.com/haeck/getsocial/Get-Social-Social-Icon-Font-Example.jpg" title="Get Social - Social Media Font" alt="Get Social - Social Media Font" />
 
-Images in SVG and PNG format have been included in the "images" folder.  If you would like another social media icon included, simply add a request to it's homepage (http://haeckdesign.com/freebies/icons/get-social-icon-set) and we'll do our best to include it on future revisions.
+Images in SVG and PNG format have been included in the "images" folder.  If you would like another social media icon included, simply add a request to it's homepage (https://haeckdesign.com/freebies/icons/get-social-icon-set) and we'll do our best to include it on future revisions.
 
 
 ## Featuring the Following Social Media Icons... ##
 
-Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Foursquare, Forrst, Github, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Meerkat, Myspace, Opera, PayPal, Periscope, Pinterest, Pocket, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitter, Vimeo, Vine, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar
+Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Foursquare, Forrst, Github, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Meerkat, Myspace, Opera, PayPal, Periscope, Pinterest, Pocket, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitter, Vimeo, Vine, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
 
 
 ### HTML Code ###
@@ -23,13 +23,20 @@ Icons are prefixed with "gsicon-" then the name of the site. Style.css has been 
 
 ### Demo ###
 
-A full demo featuring the Get Social Social Media Font is now available at https://demo.haeckdesign.com/get-social-icon-set/ 
+A full demo featuring the Get Social Social Media Font is now available at https://demo.haeckdesign.com/get-social-icon-set/
 
 
 =============
 
 
 **Changelog:**
+
+
+#### Version 1.4 ####
+
+**Added:** Creative Commons Icons - Remix, Zero, BY, CC, NC-EU, NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, Sampling-Plus, Sampling, Share 
+
+=============
 
 #### Version 1.3 ####
 
