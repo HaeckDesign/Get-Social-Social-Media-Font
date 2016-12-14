@@ -1,0 +1,459 @@
+@import "variables";
+
+@font-face {
+  font-family: 'Get-Social-Font';
+  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?x5oqer');
+  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?x5oqer#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/Get-Social-Font.ttf?x5oqer') format('truetype'),
+    url('#{$icomoon-font-path}/Get-Social-Font.woff?x5oqer') format('woff'),
+    url('#{$icomoon-font-path}/Get-Social-Font.svg?x5oqer#Get-Social-Font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="gsicon-"], [class*=" gsicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Get-Social-Font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.gsicon-behance {
+  &:before {
+    content: $gsicon-behance;
+  }
+}
+.gsicon-bing {
+  &:before {
+    content: $gsicon-bing;
+  }
+}
+.gsicon-bitbucket {
+  &:before {
+    content: $gsicon-bitbucket;
+  }
+}
+.gsicon-blogger {
+  &:before {
+    content: $gsicon-blogger;
+  }
+}
+.gsicon-chrome {
+  &:before {
+    content: $gsicon-chrome;
+  }
+}
+.gsicon-codepen {
+  &:before {
+    content: $gsicon-codepen;
+  }
+}
+.gsicon-css3 {
+  &:before {
+    content: $gsicon-css3;
+  }
+}
+.gsicon-css3-box {
+  &:before {
+    content: $gsicon-css3-box;
+  }
+}
+.gsicon-delicious {
+  &:before {
+    content: $gsicon-delicious;
+  }
+}
+.gsicon-digg {
+  &:before {
+    content: $gsicon-digg;
+  }
+}
+.gsicon-disqus {
+  &:before {
+    content: $gsicon-disqus;
+  }
+}
+.gsicon-deviantart {
+  &:before {
+    content: $gsicon-deviantart;
+  }
+}
+.gsicon-dribbble {
+  &:before {
+    content: $gsicon-dribbble;
+  }
+}
+.gsicon-dropbox {
+  &:before {
+    content: $gsicon-dropbox;
+  }
+}
+.gsicon-drupal {
+  &:before {
+    content: $gsicon-drupal;
+  }
+}
+.gsicon-ello {
+  &:before {
+    content: $gsicon-ello;
+  }
+}
+.gsicon-etsy {
+  &:before {
+    content: $gsicon-etsy;
+  }
+}
+.gsicon-evernote {
+  &:before {
+    content: $gsicon-evernote;
+  }
+}
+.gsicon-facebook {
+  &:before {
+    content: $gsicon-facebook;
+  }
+}
+.gsicon-facebook-messanger {
+  &:before {
+    content: $gsicon-facebook-messanger;
+  }
+}
+.gsicon-firefox {
+  &:before {
+    content: $gsicon-firefox;
+  }
+}
+.gsicon-flickr {
+  &:before {
+    content: $gsicon-flickr;
+  }
+}
+.gsicon-flipboard {
+  &:before {
+    content: $gsicon-flipboard;
+  }
+}
+.gsicon-foursquare {
+  &:before {
+    content: $gsicon-foursquare;
+  }
+}
+.gsicon-forrst {
+  &:before {
+    content: $gsicon-forrst;
+  }
+}
+.gsicon-github {
+  &:before {
+    content: $gsicon-github;
+  }
+}
+.gsicon-grooveshark {
+  &:before {
+    content: $gsicon-grooveshark;
+  }
+}
+.gsicon-google {
+  &:before {
+    content: $gsicon-google;
+  }
+}
+.gsicon-google-plus {
+  &:before {
+    content: $gsicon-google-plus;
+  }
+}
+.gsicon-google-drive {
+  &:before {
+    content: $gsicon-google-drive;
+  }
+}
+.gsicon-houzz {
+  &:before {
+    content: $gsicon-houzz;
+  }
+}
+.gsicon-html5 {
+  &:before {
+    content: $gsicon-html5;
+  }
+}
+.gsicon-html5-box {
+  &:before {
+    content: $gsicon-html5-box;
+  }
+}
+.gsicon-icloud {
+  &:before {
+    content: $gsicon-icloud;
+  }
+}
+.gsicon-instagram {
+  &:before {
+    content: $gsicon-instagram;
+  }
+}
+.gsicon-ie {
+  &:before {
+    content: $gsicon-ie;
+  }
+}
+.gsicon-joomla {
+  &:before {
+    content: $gsicon-joomla;
+  }
+}
+.gsicon-lastfm {
+  &:before {
+    content: $gsicon-lastfm;
+  }
+}
+.gsicon-linkedin {
+  &:before {
+    content: $gsicon-linkedin;
+  }
+}
+.gsicon-medium {
+  &:before {
+    content: $gsicon-medium;
+  }
+}
+.gsicon-meerkat {
+  &:before {
+    content: $gsicon-meerkat;
+  }
+}
+.gsicon-myspace {
+  &:before {
+    content: $gsicon-myspace;
+  }
+}
+.gsicon-opera {
+  &:before {
+    content: $gsicon-opera;
+  }
+}
+.gsicon-patreon {
+  &:before {
+    content: $gsicon-patreon;
+  }
+}
+.gsicon-paypal {
+  &:before {
+    content: $gsicon-paypal;
+  }
+}
+.gsicon-periscope {
+  &:before {
+    content: $gsicon-periscope;
+  }
+}
+.gsicon-pinterest {
+  &:before {
+    content: $gsicon-pinterest;
+  }
+}
+.gsicon-pocket {
+  &:before {
+    content: $gsicon-pocket;
+  }
+}
+.gsicon-quora {
+  &:before {
+    content: $gsicon-quora;
+  }
+}
+.gsicon-reddit {
+  &:before {
+    content: $gsicon-reddit;
+  }
+}
+.gsicon-rss {
+  &:before {
+    content: $gsicon-rss;
+  }
+}
+.gsicon-safari {
+  &:before {
+    content: $gsicon-safari;
+  }
+}
+.gsicon-slack {
+  &:before {
+    content: $gsicon-slack;
+  }
+}
+.gsicon-snapchat {
+  &:before {
+    content: $gsicon-snapchat;
+  }
+}
+.gsicon-skype {
+  &:before {
+    content: $gsicon-skype;
+  }
+}
+.gsicon-spotify {
+  &:before {
+    content: $gsicon-spotify;
+  }
+}
+.gsicon-stack-overflow {
+  &:before {
+    content: $gsicon-stack-overflow;
+  }
+}
+.gsicon-stumbleupon {
+  &:before {
+    content: $gsicon-stumbleupon;
+  }
+}
+.gsicon-soundcloud {
+  &:before {
+    content: $gsicon-soundcloud;
+  }
+}
+.gsicon-tumblr {
+  &:before {
+    content: $gsicon-tumblr;
+  }
+}
+.gsicon-twitch {
+  &:before {
+    content: $gsicon-twitch;
+  }
+}
+.gsicon-twitter {
+  &:before {
+    content: $gsicon-twitter;
+  }
+}
+.gsicon-vimeo {
+  &:before {
+    content: $gsicon-vimeo;
+  }
+}
+.gsicon-vine {
+  &:before {
+    content: $gsicon-vine;
+  }
+}
+.gsicon-vk {
+  &:before {
+    content: $gsicon-vk;
+  }
+}
+.gsicon-whatsapp {
+  &:before {
+    content: $gsicon-whatsapp;
+  }
+}
+.gsicon-wikipedia {
+  &:before {
+    content: $gsicon-wikipedia;
+  }
+}
+.gsicon-wordpress {
+  &:before {
+    content: $gsicon-wordpress;
+  }
+}
+.gsicon-yelp {
+  &:before {
+    content: $gsicon-yelp;
+  }
+}
+.gsicon-youtube {
+  &:before {
+    content: $gsicon-youtube;
+  }
+}
+.gsicon-zerply {
+  &:before {
+    content: $gsicon-zerply;
+  }
+}
+.gsicon-500px {
+  &:before {
+    content: $gsicon-500px;
+  }
+}
+.gsicon-tribars {
+  &:before {
+    content: $gsicon-tribars;
+  }
+}
+.gsicon-by {
+  &:before {
+    content: $gsicon-by;
+  }
+}
+.gsicon-cc {
+  &:before {
+    content: $gsicon-cc;
+  }
+}
+.gsicon-nc-eu {
+  &:before {
+    content: $gsicon-nc-eu;
+  }
+}
+.gsicon-nc-jp {
+  &:before {
+    content: $gsicon-nc-jp;
+  }
+}
+.gsicon-nc {
+  &:before {
+    content: $gsicon-nc;
+  }
+}
+.gsicon-nd {
+  &:before {
+    content: $gsicon-nd;
+  }
+}
+.gsicon-pd {
+  &:before {
+    content: $gsicon-pd;
+  }
+}
+.gsicon-remix {
+  &:before {
+    content: $gsicon-remix;
+  }
+}
+.gsicon-sa {
+  &:before {
+    content: $gsicon-sa;
+  }
+}
+.gsicon-sampling {
+  &:before {
+    content: $gsicon-sampling;
+  }
+}
+.gsicon-samplingplus {
+  &:before {
+    content: $gsicon-samplingplus;
+  }
+}
+.gsicon-share {
+  &:before {
+    content: $gsicon-share;
+  }
+}
+.gsicon-zero {
+  &:before {
+    content: $gsicon-zero;
+  }
+}
+

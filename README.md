@@ -10,7 +10,7 @@ Images in SVG and PNG format have been included in the "images" folder.  If you 
 
 ## Featuring the Following Social Media Icons... ##
 
-Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Foursquare, Forrst, Github, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Meerkat, Myspace, Opera, PayPal, Periscope, Pinterest, Pocket, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitter, Vimeo, Vine, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
+Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Delicious, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Flipboard, Foursquare, Forrst, Github, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Meerkat, Medium, Myspace, Opera, Patreon, PayPal, Periscope, Pinterest, Pocket, Quora, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitch, Twitter, Vimeo, Vine, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
 
 
 ### HTML Code ###
@@ -31,6 +31,11 @@ A full demo featuring the Get Social Social Media Font is now available at https
 
 **Changelog:**
 
+#### Version 1.5 ####
+**Added:** Delicious, Flipboard, Medium, Patreon, Quora, Twitch
+**Updated:** Github
+
+=============
 
 #### Version 1.4 ####
 
@@ -52,5 +57,5 @@ A full demo featuring the Get Social Social Media Font is now available at https
 
 =============
 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Get Social - Social Media Font</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://haeckdesign.com/freebies/icons/get-social-icon-font" property="cc:attributionName" rel="cc:attributionURL">Matthew Haeck</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Get Social - Social Media Font</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://haeckdesign.com/freebies/icons/get-social-icon-set" property="cc:attributionName" rel="cc:attributionURL">Matthew Haeck</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>
