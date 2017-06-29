@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Get-Social-Font';
-  src:  url('fonts/Get-Social-Font.eot?x5oqer');
-  src:  url('fonts/Get-Social-Font.eot?x5oqer#iefix') format('embedded-opentype'),
-    url('fonts/Get-Social-Font.ttf?x5oqer') format('truetype'),
-    url('fonts/Get-Social-Font.woff?x5oqer') format('woff'),
-    url('fonts/Get-Social-Font.svg?x5oqer#Get-Social-Font') format('svg');
+  src:  url('fonts/Get-Social-Font.eot?d34evb');
+  src:  url('fonts/Get-Social-Font.eot?d34evb#iefix') format('embedded-opentype'),
+    url('fonts/Get-Social-Font.ttf?d34evb') format('truetype'),
+    url('fonts/Get-Social-Font.woff?d34evb') format('woff'),
+    url('fonts/Get-Social-Font.svg?d34evb#Get-Social-Font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.gsicon-apple:before {
+  content: "\e900";
+}
 .gsicon-behance:before {
   content: "\e600";
 }
@@ -39,6 +42,18 @@
 .gsicon-chrome:before {
   content: "\e603";
 }
+.gsicon-disqus:before {
+  content: "\e907";
+}
+.gsicon-facebook:before {
+  content: "\e604";
+}
+.gsicon-facebook-messanger:before {
+  content: "\e634";
+}
+.gsicon-twitter:before {
+  content: "\e605";
+}
 .gsicon-codepen:before {
   content: "\e606";
 }
@@ -48,14 +63,8 @@
 .gsicon-css3-box:before {
   content: "\e639";
 }
-.gsicon-delicious:before {
-  content: "\e901";
-}
 .gsicon-digg:before {
   content: "\e608";
-}
-.gsicon-disqus:before {
-  content: "\e907";
 }
 .gsicon-deviantart:before {
   content: "\e609";
@@ -66,11 +75,11 @@
 .gsicon-dropbox:before {
   content: "\e60b";
 }
+.gsicon-delicious:before {
+  content: "\e903";
+}
 .gsicon-drupal:before {
   content: "\e60c";
-}
-.gsicon-ello:before {
-  content: "\e60e";
 }
 .gsicon-etsy:before {
   content: "\e633";
@@ -78,11 +87,8 @@
 .gsicon-evernote:before {
   content: "\e60d";
 }
-.gsicon-facebook:before {
-  content: "\e604";
-}
-.gsicon-facebook-messanger:before {
-  content: "\e634";
+.gsicon-ello:before {
+  content: "\e60e";
 }
 .gsicon-firefox:before {
   content: "\e60f";
@@ -96,14 +102,8 @@
 .gsicon-foursquare:before {
   content: "\e611";
 }
-.gsicon-forrst:before {
-  content: "\e612";
-}
 .gsicon-github:before {
   content: "\e613";
-}
-.gsicon-grooveshark:before {
-  content: "\e617";
 }
 .gsicon-google:before {
   content: "\e909";
@@ -113,6 +113,9 @@
 }
 .gsicon-google-drive:before {
   content: "\e616";
+}
+.gsicon-grooveshark:before {
+  content: "\e617";
 }
 .gsicon-houzz:before {
   content: "\e90a";
@@ -141,14 +144,17 @@
 .gsicon-linkedin:before {
   content: "\e61d";
 }
+.gsicon-myspace:before {
+  content: "\e61e";
+}
+.gsicon-mailchimp:before {
+  content: "\e901";
+}
 .gsicon-medium:before {
   content: "\e90b";
 }
 .gsicon-meerkat:before {
-  content: "\e900";
-}
-.gsicon-myspace:before {
-  content: "\e61e";
+  content: "\e902";
 }
 .gsicon-opera:before {
   content: "\e61f";
@@ -180,14 +186,14 @@
 .gsicon-safari:before {
   content: "\e624";
 }
+.gsicon-skype:before {
+  content: "\e625";
+}
 .gsicon-slack:before {
   content: "\e910";
 }
 .gsicon-snapchat:before {
   content: "\e636";
-}
-.gsicon-skype:before {
-  content: "\e625";
 }
 .gsicon-spotify:before {
   content: "\e626";
@@ -207,17 +213,14 @@
 .gsicon-twitch:before {
   content: "\e911";
 }
-.gsicon-twitter:before {
-  content: "\e605";
-}
-.gsicon-vimeo:before {
-  content: "\e62b";
-}
-.gsicon-vine:before {
-  content: "\e62c";
+.gsicon-ubuntu:before {
+  content: "\e904";
 }
 .gsicon-vk:before {
   content: "\e912";
+}
+.gsicon-vimeo:before {
+  content: "\e62b";
 }
 .gsicon-whatsapp:before {
   content: "\e637";
@@ -273,7 +276,7 @@
 .gsicon-sampling:before {
   content: "\e91d";
 }
-.gsicon-samplingplus:before {
+.gsicon-sampling-plus:before {
   content: "\e91e";
 }
 .gsicon-share:before {
@@ -282,4 +285,3 @@
 .gsicon-zero:before {
   content: "\e920";
 }
-

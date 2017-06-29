@@ -10,7 +10,7 @@ Images in SVG and PNG format have been included in the "images" folder.  If you 
 
 ## Featuring the Following Social Media Icons... ##
 
-Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Delicious, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Flipboard, Foursquare, Forrst, Github, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Meerkat, Medium, Myspace, Opera, Patreon, PayPal, Periscope, Pinterest, Pocket, Quora, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitch, Twitter, Vimeo, Vine, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
+Apple, Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Delicious, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Flipboard, Foursquare, Github, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Mailchimp, Meerkat, Medium, Myspace, Opera, Patreon, PayPal, Periscope, Pinterest, Pocket, Quora, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitch, Twitter, Ubuntu, Vimeo, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
 
 
 ### HTML Code ###
@@ -30,6 +30,13 @@ A full demo featuring the Get Social Social Media Font is now available at https
 
 
 **Changelog:**
+
+#### Version 1.6 ####
+**Added:** Apple, Mailchimp, Ubuntu
+**Updated:** Instagram, YouTube
+**Removed:** Forrst, Vine
+
+=============
 
 #### Version 1.5 ####
 **Added:** Delicious, Flipboard, Medium, Patreon, Quora, Twitch
