@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Get-Social-Font';
-  src:  url('fonts/Get-Social-Font.eot?d34evb');
-  src:  url('fonts/Get-Social-Font.eot?d34evb#iefix') format('embedded-opentype'),
-    url('fonts/Get-Social-Font.ttf?d34evb') format('truetype'),
-    url('fonts/Get-Social-Font.woff?d34evb') format('woff'),
-    url('fonts/Get-Social-Font.svg?d34evb#Get-Social-Font') format('svg');
+  src:  url('fonts/Get-Social-Font.eot?5daagt');
+  src:  url('fonts/Get-Social-Font.eot?5daagt#iefix') format('embedded-opentype'),
+    url('fonts/Get-Social-Font.ttf?5daagt') format('truetype'),
+    url('fonts/Get-Social-Font.woff?5daagt') format('woff'),
+    url('fonts/Get-Social-Font.svg?5daagt#Get-Social-Font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -31,7 +31,7 @@
   content: "\e600";
 }
 .gsicon-bing:before {
-  content: "\e906";
+  content: "\e901";
 }
 .gsicon-bitbucket:before {
   content: "\e601";
@@ -42,18 +42,6 @@
 .gsicon-chrome:before {
   content: "\e603";
 }
-.gsicon-disqus:before {
-  content: "\e907";
-}
-.gsicon-facebook:before {
-  content: "\e604";
-}
-.gsicon-facebook-messanger:before {
-  content: "\e634";
-}
-.gsicon-twitter:before {
-  content: "\e605";
-}
 .gsicon-codepen:before {
   content: "\e606";
 }
@@ -63,8 +51,14 @@
 .gsicon-css3-box:before {
   content: "\e639";
 }
+.gsicon-delicious:before {
+  content: "\e902";
+}
 .gsicon-digg:before {
   content: "\e608";
+}
+.gsicon-disqus:before {
+  content: "\e905";
 }
 .gsicon-deviantart:before {
   content: "\e609";
@@ -75,11 +69,11 @@
 .gsicon-dropbox:before {
   content: "\e60b";
 }
-.gsicon-delicious:before {
-  content: "\e903";
-}
 .gsicon-drupal:before {
   content: "\e60c";
+}
+.gsicon-ello:before {
+  content: "\e60e";
 }
 .gsicon-etsy:before {
   content: "\e633";
@@ -87,8 +81,11 @@
 .gsicon-evernote:before {
   content: "\e60d";
 }
-.gsicon-ello:before {
-  content: "\e60e";
+.gsicon-facebook:before {
+  content: "\e604";
+}
+.gsicon-facebook-messanger:before {
+  content: "\e634";
 }
 .gsicon-firefox:before {
   content: "\e60f";
@@ -97,7 +94,7 @@
   content: "\e610";
 }
 .gsicon-flipboard:before {
-  content: "\e908";
+  content: "\e903";
 }
 .gsicon-foursquare:before {
   content: "\e611";
@@ -106,7 +103,7 @@
   content: "\e613";
 }
 .gsicon-google:before {
-  content: "\e909";
+  content: "\e908";
 }
 .gsicon-google-plus:before {
   content: "\e615";
@@ -144,38 +141,38 @@
 .gsicon-linkedin:before {
   content: "\e61d";
 }
-.gsicon-myspace:before {
-  content: "\e61e";
-}
 .gsicon-mailchimp:before {
-  content: "\e901";
-}
-.gsicon-medium:before {
-  content: "\e90b";
+  content: "\e904";
 }
 .gsicon-meerkat:before {
-  content: "\e902";
+  content: "\e906";
+}
+.gsicon-medium:before {
+  content: "\e907";
+}
+.gsicon-myspace:before {
+  content: "\e61e";
 }
 .gsicon-opera:before {
   content: "\e61f";
 }
 .gsicon-patreon:before {
-  content: "\e90c";
+  content: "\e909";
 }
 .gsicon-paypal:before {
   content: "\e620";
 }
 .gsicon-periscope:before {
-  content: "\e90d";
+  content: "\e90b";
 }
 .gsicon-pinterest:before {
   content: "\e621";
 }
 .gsicon-pocket:before {
-  content: "\e90e";
+  content: "\e90c";
 }
 .gsicon-quora:before {
-  content: "\e90f";
+  content: "\e90d";
 }
 .gsicon-reddit:before {
   content: "\e622";
@@ -190,7 +187,7 @@
   content: "\e625";
 }
 .gsicon-slack:before {
-  content: "\e910";
+  content: "\e90e";
 }
 .gsicon-snapchat:before {
   content: "\e636";
@@ -211,22 +208,25 @@
   content: "\e62a";
 }
 .gsicon-twitch:before {
-  content: "\e911";
+  content: "\e90f";
+}
+.gsicon-twitter:before {
+  content: "\e605";
 }
 .gsicon-ubuntu:before {
-  content: "\e904";
-}
-.gsicon-vk:before {
-  content: "\e912";
+  content: "\e910";
 }
 .gsicon-vimeo:before {
   content: "\e62b";
+}
+.gsicon-vk:before {
+  content: "\e911";
 }
 .gsicon-whatsapp:before {
   content: "\e637";
 }
 .gsicon-wikipedia:before {
-  content: "\e913";
+  content: "\e912";
 }
 .gsicon-wordpress:before {
   content: "\e62d";
@@ -246,42 +246,42 @@
 .gsicon-tribars:before {
   content: "\e632";
 }
-.gsicon-by:before {
-  content: "\e914";
-}
-.gsicon-cc:before {
-  content: "\e915";
-}
-.gsicon-nc-eu:before {
-  content: "\e916";
-}
-.gsicon-nc-jp:before {
-  content: "\e917";
-}
-.gsicon-nc:before {
-  content: "\e918";
-}
-.gsicon-nd:before {
-  content: "\e919";
-}
-.gsicon-pd:before {
-  content: "\e91a";
-}
-.gsicon-remix:before {
-  content: "\e91b";
-}
-.gsicon-sa:before {
-  content: "\e91c";
-}
-.gsicon-sampling:before {
-  content: "\e91d";
-}
-.gsicon-sampling-plus:before {
-  content: "\e91e";
-}
-.gsicon-share:before {
-  content: "\e91f";
-}
-.gsicon-zero:before {
+.gsicon-cc-remix:before {
   content: "\e920";
+}
+.gsicon-cc-zero:before {
+  content: "\e921";
+}
+.gsicon-cc-by:before {
+  content: "\e922";
+}
+.gsicon-cc-cc:before {
+  content: "\e923";
+}
+.gsicon-cc-nc-eu:before {
+  content: "\e924";
+}
+.gsicon-cc-nc-jp:before {
+  content: "\e925";
+}
+.gsicon-cc-nc:before {
+  content: "\e926";
+}
+.gsicon-cc-nd:before {
+  content: "\e927";
+}
+.gsicon-cc-pd:before {
+  content: "\e928";
+}
+.gsicon-cc-sa:before {
+  content: "\e929";
+}
+.gsicon-cc-sampling-plus:before {
+  content: "\e930";
+}
+.gsicon-cc-sampling:before {
+  content: "\e931";
+}
+.gsicon-cc-share:before {
+  content: "\e932";
 }
