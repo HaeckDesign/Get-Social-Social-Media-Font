@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'Get-Social-Font';
-  src:  url('fonts/Get-Social-Font.eot?5daagt');
-  src:  url('fonts/Get-Social-Font.eot?5daagt#iefix') format('embedded-opentype'),
-    url('fonts/Get-Social-Font.ttf?5daagt') format('truetype'),
-    url('fonts/Get-Social-Font.woff?5daagt') format('woff'),
-    url('fonts/Get-Social-Font.svg?5daagt#Get-Social-Font') format('svg');
+  src:  url('fonts/Get-Social-Font.eot?demmwc');
+  src:  url('fonts/Get-Social-Font.eot?demmwc#iefix') format('embedded-opentype'),
+    url('fonts/Get-Social-Font.ttf?demmwc') format('truetype'),
+    url('fonts/Get-Social-Font.woff?demmwc') format('woff'),
+    url('fonts/Get-Social-Font.svg?demmwc#Get-Social-Font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="gsicon-"], [class*=" gsicon-"] {
+i {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Get-Social-Font' !important;
   speak: none;
@@ -102,6 +102,9 @@
 .gsicon-github:before {
   content: "\e613";
 }
+.gsicon-gitlab:before {
+  content: "\e904";
+}
 .gsicon-google:before {
   content: "\e908";
 }
@@ -142,13 +145,13 @@
   content: "\e61d";
 }
 .gsicon-mailchimp:before {
-  content: "\e904";
-}
-.gsicon-meerkat:before {
   content: "\e906";
 }
-.gsicon-medium:before {
+.gsicon-meerkat:before {
   content: "\e907";
+}
+.gsicon-medium:before {
+  content: "\e909";
 }
 .gsicon-myspace:before {
   content: "\e61e";
@@ -157,22 +160,22 @@
   content: "\e61f";
 }
 .gsicon-patreon:before {
-  content: "\e909";
+  content: "\e90b";
 }
 .gsicon-paypal:before {
   content: "\e620";
 }
 .gsicon-periscope:before {
-  content: "\e90b";
+  content: "\e90c";
 }
 .gsicon-pinterest:before {
   content: "\e621";
 }
 .gsicon-pocket:before {
-  content: "\e90c";
+  content: "\e90d";
 }
 .gsicon-quora:before {
-  content: "\e90d";
+  content: "\e90e";
 }
 .gsicon-reddit:before {
   content: "\e622";
@@ -187,7 +190,7 @@
   content: "\e625";
 }
 .gsicon-slack:before {
-  content: "\e90e";
+  content: "\e90f";
 }
 .gsicon-snapchat:before {
   content: "\e636";
@@ -208,25 +211,25 @@
   content: "\e62a";
 }
 .gsicon-twitch:before {
-  content: "\e90f";
+  content: "\e910";
 }
 .gsicon-twitter:before {
   content: "\e605";
 }
 .gsicon-ubuntu:before {
-  content: "\e910";
+  content: "\e911";
 }
 .gsicon-vimeo:before {
   content: "\e62b";
 }
 .gsicon-vk:before {
-  content: "\e911";
+  content: "\e912";
 }
 .gsicon-whatsapp:before {
   content: "\e637";
 }
 .gsicon-wikipedia:before {
-  content: "\e912";
+  content: "\e913";
 }
 .gsicon-wordpress:before {
   content: "\e62d";
