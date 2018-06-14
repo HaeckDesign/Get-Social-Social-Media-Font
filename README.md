@@ -12,11 +12,13 @@ Images in SVG and PNG format have been included in the "images" folder.  If you 
 Apple, Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Delicious, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Flipboard, Foursquare, Github, Gitlab, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Mailchimp, Meerkat, Medium, Myspace, Opera, Patreon, PayPal, Periscope, Pinterest, Pocket, Quora, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitch, Twitter, Ubuntu, Vimeo, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
 
 
+
 ### HTML Code ###
 
 Icons are prefixed with "gsicon-" then the name of the site. Style.css has been included for efficiency and to identify how the websites are included. A simple icon would be created by using an i with the class "gsicon-twitter".
 
 ```<i class="gsicon-twitter"></i>```
+
 
 
 ### Social Media Font Demo ###
@@ -25,6 +27,8 @@ A full [Social Media Font Demo](https://demo.haeckdesign.com/get-social-icon-set
 
 
 #### Changelog ####
+
+---
 
 ##### Version 1.7 #####
 * Added: Gitlab
@@ -60,9 +64,9 @@ A full [Social Media Font Demo](https://demo.haeckdesign.com/get-social-icon-set
 ##### Version 1.2 #####
 * Added: Etsy, Facebook Messanger, iCloud, Snapchat, WhatsApp, HTML5 boxed, & CSS3 boxed
 
----
 
-####### License #######
+
+###### License ######
 
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Get Social - Social Media Font</span> by [Matthew Haeck](https://haeckdesign.com/freebies/icons/get-social-icon-set) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
