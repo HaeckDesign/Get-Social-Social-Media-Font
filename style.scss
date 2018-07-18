@@ -2,16 +2,16 @@
 
 @font-face {
   font-family: 'Get-Social-Font';
-  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?demmwc');
-  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?demmwc#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/Get-Social-Font.ttf?demmwc') format('truetype'),
-    url('#{$icomoon-font-path}/Get-Social-Font.woff?demmwc') format('woff'),
-    url('#{$icomoon-font-path}/Get-Social-Font.svg?demmwc#Get-Social-Font') format('svg');
+  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?zhdupj');
+  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?zhdupj#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/Get-Social-Font.ttf?zhdupj') format('truetype'),
+    url('#{$icomoon-font-path}/Get-Social-Font.woff?zhdupj') format('woff'),
+    url('#{$icomoon-font-path}/Get-Social-Font.svg?zhdupj#Get-Social-Font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-i {
+[class^="gsicon-"], [class*=" gsicon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Get-Social-Font' !important;
   speak: none;
@@ -104,6 +104,11 @@ i {
 .gsicon-drupal {
   &:before {
     content: $gsicon-drupal; 
+  }
+}
+.gsicon-edge {
+  &:before {
+    content: $gsicon-edge; 
   }
 }
 .gsicon-ello {
@@ -241,6 +246,11 @@ i {
     content: $gsicon-medium; 
   }
 }
+.gsicon-mix {
+  &:before {
+    content: $gsicon-mix; 
+  }
+}
 .gsicon-myspace {
   &:before {
     content: $gsicon-myspace; 
@@ -319,11 +329,6 @@ i {
 .gsicon-stack-overflow {
   &:before {
     content: $gsicon-stack-overflow; 
-  }
-}
-.gsicon-stumbleupon {
-  &:before {
-    content: $gsicon-stumbleupon; 
   }
 }
 .gsicon-soundcloud {

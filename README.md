@@ -9,7 +9,7 @@ Images in SVG and PNG format have been included in the "images" folder.  If you 
 
 ## Featuring the Following Social Media Icons... ##
 
-Apple, Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Delicious, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Flipboard, Foursquare, Github, Gitlab, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Mailchimp, Meerkat, Medium, Myspace, Opera, Patreon, PayPal, Periscope, Pinterest, Pocket, Quora, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, StumbleUpon, SoundCloud, Tumblr, Twitch, Twitter, Ubuntu, Vimeo, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
+Apple, Behance, Bing, Bitbucket, Blogger, Chrome, Codepen, CSS3, Delicious, Digg, Disqus, DeviantArt, Dribbble, Dropbox, Drupal, Edge, Ello, Etsy, Evernote, Facebook, Facebook Messanger, Firefox, Flickr, Flipboard, Foursquare, Github, Gitlab, Google, Google+, Google Drive, Grooveshark, Houzz, HTML5, iCloud, Instagram, Internet Explorer, Joomla, Last.fm, LinkedIn, Mailchimp, Meerkat, Medium, Mix, Myspace, Opera, Patreon, PayPal, Periscope, Pinterest, Pocket, Quora, Reddit, RSS, Safari, Skype, Slack, Snapchat, Spotify, Stack Overflow, SoundCloud, Tumblr, Twitch, Twitter, Ubuntu, Vimeo, VK, WhatsApp, Wikipedia, WordPress, Yelp, YouTube, Zerply, 500px, Generic Tribar, CC-Remix, CC-Zero, CC-BY, CC, CC-NC-EU, CC-NC-JP, CC-NC, CC-ND, CC-PD, CC-SA, CC-Sampling-Plus, CC-Sampling, CC-Share
 
 
 
@@ -27,6 +27,12 @@ A full [Social Media Font Demo](https://demo.haeckdesign.com/get-social-icon-set
 
 
 #### Changelog ####
+
+---
+
+##### Version 1.8 #####
+* Added: Mix, Edge
+* Removed: StumbleUpon
 
 ---
 
