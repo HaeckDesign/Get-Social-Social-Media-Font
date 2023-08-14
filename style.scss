@@ -1,20 +1,20 @@
-@import "variables";
 
 @font-face {
   font-family: 'Get-Social-Font';
-  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?zhdupj');
-  src:  url('#{$icomoon-font-path}/Get-Social-Font.eot?zhdupj#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/Get-Social-Font.ttf?zhdupj') format('truetype'),
-    url('#{$icomoon-font-path}/Get-Social-Font.woff?zhdupj') format('woff'),
-    url('#{$icomoon-font-path}/Get-Social-Font.svg?zhdupj#Get-Social-Font') format('svg');
+  src:  url('fonts/Get-Social-Font.eot?oq4cqo');
+  src:  url('fonts/Get-Social-Font.eot?oq4cqo#iefix') format('embedded-opentype'),
+    url('fonts/Get-Social-Font.ttf?oq4cqo') format('truetype'),
+    url('fonts/Get-Social-Font.woff?oq4cqo') format('woff'),
+    url('fonts/Get-Social-Font.svg?oq4cqo#Get-Social-Font') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="gsicon-"], [class*=" gsicon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Get-Social-Font' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -69,11 +69,6 @@
 .gsicon-css3-box {
   &:before {
     content: $gsicon-css3-box; 
-  }
-}
-.gsicon-delicious {
-  &:before {
-    content: $gsicon-delicious; 
   }
 }
 .gsicon-digg {
@@ -171,19 +166,9 @@
     content: $gsicon-google; 
   }
 }
-.gsicon-google-plus {
-  &:before {
-    content: $gsicon-google-plus; 
-  }
-}
 .gsicon-google-drive {
   &:before {
     content: $gsicon-google-drive; 
-  }
-}
-.gsicon-grooveshark {
-  &:before {
-    content: $gsicon-grooveshark; 
   }
 }
 .gsicon-houzz {
@@ -211,11 +196,6 @@
     content: $gsicon-instagram; 
   }
 }
-.gsicon-ie {
-  &:before {
-    content: $gsicon-ie; 
-  }
-}
 .gsicon-joomla {
   &:before {
     content: $gsicon-joomla; 
@@ -234,11 +214,6 @@
 .gsicon-mailchimp {
   &:before {
     content: $gsicon-mailchimp; 
-  }
-}
-.gsicon-meerkat {
-  &:before {
-    content: $gsicon-meerkat; 
   }
 }
 .gsicon-medium {
@@ -269,11 +244,6 @@
 .gsicon-paypal {
   &:before {
     content: $gsicon-paypal; 
-  }
-}
-.gsicon-periscope {
-  &:before {
-    content: $gsicon-periscope; 
   }
 }
 .gsicon-pinterest {
@@ -336,6 +306,16 @@
     content: $gsicon-soundcloud; 
   }
 }
+.gsicon-telegram {
+  &:before {
+    content: $gsicon-telegram; 
+  }
+}
+.gsicon-tiktok {
+  &:before {
+    content: $gsicon-tiktok; 
+  }
+}
 .gsicon-tumblr {
   &:before {
     content: $gsicon-tumblr; 
@@ -381,6 +361,11 @@
     content: $gsicon-wordpress; 
   }
 }
+.gsicon-x {
+  &:before {
+    content: $gsicon-x; 
+  }
+}
 .gsicon-yelp {
   &:before {
     content: $gsicon-yelp; 
@@ -389,11 +374,6 @@
 .gsicon-youtube {
   &:before {
     content: $gsicon-youtube; 
-  }
-}
-.gsicon-zerply {
-  &:before {
-    content: $gsicon-zerply; 
   }
 }
 .gsicon-500px {

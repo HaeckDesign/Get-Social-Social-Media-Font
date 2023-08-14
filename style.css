@@ -1,18 +1,19 @@
 @font-face {
   font-family: 'Get-Social-Font';
-  src:  url('fonts/Get-Social-Font.eot?zhdupj');
-  src:  url('fonts/Get-Social-Font.eot?zhdupj#iefix') format('embedded-opentype'),
-    url('fonts/Get-Social-Font.ttf?zhdupj') format('truetype'),
-    url('fonts/Get-Social-Font.woff?zhdupj') format('woff'),
-    url('fonts/Get-Social-Font.svg?zhdupj#Get-Social-Font') format('svg');
+  src:  url('fonts/Get-Social-Font.eot?oq4cqo');
+  src:  url('fonts/Get-Social-Font.eot?oq4cqo#iefix') format('embedded-opentype'),
+    url('fonts/Get-Social-Font.ttf?oq4cqo') format('truetype'),
+    url('fonts/Get-Social-Font.woff?oq4cqo') format('woff'),
+    url('fonts/Get-Social-Font.svg?oq4cqo#Get-Social-Font') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="gsicon-"], [class*=" gsicon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Get-Social-Font' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -50,9 +51,6 @@
 }
 .gsicon-css3-box:before {
   content: "\e639";
-}
-.gsicon-delicious:before {
-  content: "\e902";
 }
 .gsicon-digg:before {
   content: "\e608";
@@ -111,14 +109,8 @@
 .gsicon-google:before {
   content: "\e908";
 }
-.gsicon-google-plus:before {
-  content: "\e615";
-}
 .gsicon-google-drive:before {
   content: "\e616";
-}
-.gsicon-grooveshark:before {
-  content: "\e617";
 }
 .gsicon-houzz:before {
   content: "\e90a";
@@ -135,9 +127,6 @@
 .gsicon-instagram:before {
   content: "\e619";
 }
-.gsicon-ie:before {
-  content: "\e61a";
-}
 .gsicon-joomla:before {
   content: "\e61b";
 }
@@ -149,9 +138,6 @@
 }
 .gsicon-mailchimp:before {
   content: "\e907";
-}
-.gsicon-meerkat:before {
-  content: "\e909";
 }
 .gsicon-medium:before {
   content: "\e90b";
@@ -170,9 +156,6 @@
 }
 .gsicon-paypal:before {
   content: "\e620";
-}
-.gsicon-periscope:before {
-  content: "\e90e";
 }
 .gsicon-pinterest:before {
   content: "\e621";
@@ -210,6 +193,12 @@
 .gsicon-soundcloud:before {
   content: "\e629";
 }
+.gsicon-telegram:before {
+  content: "\e902";
+}
+.gsicon-tiktok:before {
+  content: "\e909";
+}
 .gsicon-tumblr:before {
   content: "\e62a";
 }
@@ -237,14 +226,14 @@
 .gsicon-wordpress:before {
   content: "\e62d";
 }
+.gsicon-x:before {
+  content: "\e90e";
+}
 .gsicon-yelp:before {
   content: "\e62e";
 }
 .gsicon-youtube:before {
   content: "\e62f";
-}
-.gsicon-zerply:before {
-  content: "\e630";
 }
 .gsicon-500px:before {
   content: "\e631";
