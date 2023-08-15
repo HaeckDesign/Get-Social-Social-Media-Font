@@ -1,6 +1,6 @@
 # Get Social - Social Media Font #
 
-Font based social icon set of the 88 most commonly used social media icons. Offered w/ a CC3.0 BY-SA license. Please note Haeck Design has no affiliation with any of the companies listed. If a representative of any company listed would like their logo removed, simply contact us and it will be done. We have posted this font set because it simplifies mockups for designers and we have found it useful around the studio.
+The Get Social - Social Media font is a font based social icon set of the 88 most commonly used social media icons. Offered w/ a Creative Commons Zero (CC0 1.0) license. Please note Haeck Design has no affiliation with any of the companies listed. If a representative of any company listed would like their logo removed, simply contact us and it will be done. We have posted this font set because it simplifies mockups for designers and we have found it useful around the studio.
 
 ![Get Social - Social Media Font](https://cdn.haeckdesign.com/demo/get-social-social-media-font.jpg)
 
@@ -81,6 +81,6 @@ A full [Social Media Font Demo](https://demo.haeckdesign.com/get-social-icon-set
 
 ###### License ######
 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Get Social - Social Media Font</span> by [Matthew Haeck](https://haeckdesign.com/freebies/icons/get-social-icon-set) is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://haeckdesign.com/freebies/icons/get-social-icon-set">Get Social - Social Media Font</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://haeckdesign.com/team/matthew-haeck">Matthew Haeck</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0</a></p>
 
-![Get Social - Social Media Font](https://licensebuttons.net/l/by-sa/3.0/80x15.png)
+![Get Social - Social Media Font](https://licensebuttons.net/l/zero/1.0/88x31.png)
